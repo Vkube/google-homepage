@@ -1,0 +1,27 @@
+{
+  "name": "google-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkube/google-homepage"
+  },
+  "keywords": [],
+  "author": "S.Drozdov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vkube/google-homepage/issues"
+  },
+  "homepage": "https://github.com/Vkube/google-homepage/blob/master/README.md",
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "serve": "^11.2.0"
+  }
+}
