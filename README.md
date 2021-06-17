@@ -2,7 +2,7 @@
 
 
 ![image](images/image_readme.PNG)
-
+[![wakatime](https://wakatime.com/badge/github/Vkube/google-homepage.svg)](https://wakatime.com/badge/github/Vkube/google-homepage)
 # Task 
 1. Use Html,Css(flex,grid)
 2. Git settings (Github pages)
